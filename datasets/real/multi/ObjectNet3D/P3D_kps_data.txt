@@ -1,0 +1,67 @@
+-> Occ/non Occ
+[train] aeroplane: 432 samples (occ: 51 trunc: 86)
+[test] aeroplane: 433 samples (occ: 60 trunc: 97)
+[train] bicycle: 353 samples (occ: 168 trunc: 71)
+[test] bicycle: 358 samples (occ: 175 trunc: 65)
+[train] boat: 426 samples (occ: 104 trunc: 63)
+[test] boat: 424 samples (occ: 118 trunc: 62)
+[train] bottle: 629 samples (occ: 180 trunc: 163)
+[test] bottle: 630 samples (occ: 228 trunc: 150)
+[train] bus: 292 samples (occ: 77 trunc: 54)
+[test] bus: 301 samples (occ: 80 trunc: 67)
+[train] car: 1013 samples (occ: 431 trunc: 240)
+[test] car: 1003 samples (occ: 437 trunc: 257)
+[train] chair: 1178 samples (occ: 660 trunc: 294)
+[test] chair: 1176 samples (occ: 642 trunc: 287)
+[train] diningtable: 304 samples (occ: 181 trunc: 96)
+[test] diningtable: 305 samples (occ: 209 trunc: 73)
+[train] motorbike: 357 samples (occ: 162 trunc: 68)
+[test] motorbike: 356 samples (occ: 158 trunc: 61)
+[train] sofa: 281 samples (occ: 174 trunc: 66)
+[test] sofa: 285 samples (occ: 196 trunc: 49)
+[train] train: 313 samples (occ: 89 trunc: 122)
+[test] train: 315 samples (occ: 88 trunc: 114)
+[train] tvmonitor: 392 samples (occ: 118 trunc: 72)
+[test] tvmonitor: 392 samples (occ: 98 trunc: 72)
+
+-> Sizes of BBs
+[aeroplane]
+TRAIN 432 samples, row: 128.8,85.2 col: 296.9,167.8
+TEST 433 samples, row: 138.1,90.0 col: 319.9,166.1
+[bicycle]
+TRAIN 353 samples, row: 181.5,109.1 col: 217.4,143.3
+TEST 358 samples, row: 197.0,106.6 col: 224.5,141.9
+[boat]
+TRAIN 426 samples, row: 121.2,104.9 col: 176.4,141.3
+TEST 424 samples, row: 116.1,103.8 col: 178.9,141.0
+[bottle]
+TRAIN 629 samples, row: 119.3,111.3 col: 55.1,56.3
+TEST 630 samples, row: 139.4,111.0 col: 67.4,74.3
+[bus]
+TRAIN 292 samples, row: 184.5,100.1 col: 253.2,142.7
+TEST 301 samples, row: 192.2,101.7 col: 243.9,138.3
+[car]
+TRAIN 1013 samples, row: 108.5,98.4 col: 168.7,149.4
+TEST 1003 samples, row: 102.6,92.5 col: 162.3,143.7
+[chair]
+TRAIN 1178 samples, row: 148.1,92.8 col: 120.7,88.5
+TEST 1176 samples, row: 148.6,92.8 col: 121.1,84.2
+[diningtable]
+TRAIN 304 samples, row: 166.3,83.3 col: 294.4,135.9
+TEST 305 samples, row: 165.9,88.9 col: 295.6,134.9
+[motorbike]
+TRAIN 357 samples, row: 204.8,110.3 col: 245.1,146.1
+TEST 356 samples, row: 205.0,113.0 col: 234.9,142.9
+[sofa]
+TRAIN 281 samples, row: 206.1,91.5 col: 314.3,133.1
+TEST 285 samples, row: 198.7,90.5 col: 313.7,137.0
+[train]
+TRAIN 313 samples, row: 196.3,104.8 col: 315.4,126.6
+TEST 315 samples, row: 186.9,101.6 col: 306.5,136.7
+[tvmonitor]
+TRAIN 392 samples, row: 124.7,82.3 col: 135.1,100.8
+TEST 392 samples, row: 135.2,87.7 col: 147.0,102.6
+
+-> Num samples with no viewpoint at all, but still giving (0,0,0)
+TRAIN 0,0,0: 610
+TEST 0,0,0: 664

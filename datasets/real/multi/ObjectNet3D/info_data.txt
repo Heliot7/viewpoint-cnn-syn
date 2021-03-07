@@ -1,0 +1,104 @@
+-> ObjectNet3D taken with kps and rejected with vp but w/o kps
+[train] aeroplane: 23 rejected, 498 saved
+[test] aeroplane: 32 rejected, 493 saved
+[train] bicycle: 96 rejected, 338 saved
+[test] bicycle: 121 rejected, 335 saved
+[train] boat: 59 rejected, 668 saved
+[test] boat: 73 rejected, 639 saved
+[train] bottle: 1073 rejected, 383 saved
+[test] bottle: 1040 rejected, 382 saved
+[train] bus: 46 rejected, 274 saved
+[test] bus: 56 rejected, 270 saved
+[train] car: 1869 rejected, 1414 saved
+[test] car: 1743 rejected, 1404 saved
+[train] chair: 3365 rejected, 267 saved
+[test] chair: 3257 rejected, 263 saved
+[train] diningtable: 129 rejected, 581 saved
+[test] diningtable: 124 rejected, 577 saved
+[train] motorbike: 65 rejected, 318 saved
+[test] motorbike: 71 rejected, 315 saved
+[train] sofa: 261 rejected, 376 saved
+[test] sofa: 230 rejected, 361 saved
+[train] train: 17 rejected, 330 saved
+[test] train: 28 rejected, 327 saved
+[train] tvmonitor: 482 rejected, 310 saved
+[test] tvmonitor: 461 rejected, 304 saved
+
+-> Pascal3D
+[train] aeroplane: 0 rejected, 432 saved
+[test] aeroplane: 0 rejected, 433 saved
+[train] bicycle: 0 rejected, 353 saved
+[test] bicycle: 0 rejected, 358 saved
+[train] boat: 0 rejected, 426 saved
+[test] boat: 0 rejected, 424 saved
+[train] bottle: 0 rejected, 629 saved
+[test] bottle: 0 rejected, 630 saved
+[train] bus: 0 rejected, 292 saved
+[test] bus: 0 rejected, 301 saved
+[train] car: 0 rejected, 1013 saved
+[test] car: 0 rejected, 1004 saved
+[train] chair: 0 rejected, 1178 saved
+[test] chair: 0 rejected, 1176 saved
+[train] diningtable: 0 rejected, 304 saved
+[test] diningtable: 0 rejected, 305 saved
+[train] motorbike: 0 rejected, 357 saved
+[test] motorbike: 0 rejected, 356 saved
+[train] sofa: 0 rejected, 281 saved
+[test] sofa: 0 rejected, 285 saved
+[train] train: 0 rejected, 313 saved
+[test] train: 0 rejected, 315 saved
+[train] tvmonitor: 0 rejected, 392 saved
+[test] tvmonitor: 0 rejected, 392 saved
+
+-> ImageNet3D
+[train] car: 0 rejected, 2852 saved
+[test] car: 0 rejected, 2780 saved
+[train] aeroplane: 0 rejected, 997 saved
+[test] aeroplane: 0 rejected, 979 saved
+[train] bicycle: 0 rejected, 684 saved
+[test] bicycle: 0 rejected, 658 saved
+[train] boat: 0 rejected, 1335 saved
+[test] boat: 0 rejected, 1262 saved
+[train] bottle: 0 rejected, 766 saved
+[test] bottle: 0 rejected, 761 saved
+[train] bus: 0 rejected, 548 saved
+[test] bus: 0 rejected, 536 saved
+[train] chair: 0 rejected, 539 saved
+[test] chair: 0 rejected, 514 saved
+[train] diningtable: 0 rejected, 1160 saved
+[test] diningtable: 0 rejected, 1153 saved
+[train] motorbike: 0 rejected, 644 saved
+[test] motorbike: 0 rejected, 613 saved
+[train] sofa: 0 rejected, 751 saved
+[test] sofa: 0 rejected, 707 saved
+[train] train: 0 rejected, 662 saved
+[test] train: 0 rejected, 646 saved
+[train] tvmonitor: 0 rejected, 629 saved
+[test] tvmonitor: 0 rejected, 623 saved
+
+-> Pascasl3D_KPS
+Dataset: Pascal3D
+[train] aeroplane: 432 samples (occ: 51 trunc: 86)
+[test] aeroplane: 433 samples (occ: 60 trunc: 97)
+[train] bicycle: 353 samples (occ: 168 trunc: 71)
+[test] bicycle: 358 samples (occ: 175 trunc: 65)
+[train] boat: 426 samples (occ: 104 trunc: 63)
+[test] boat: 424 samples (occ: 118 trunc: 62)
+[train] bottle: 629 samples (occ: 180 trunc: 163)
+[test] bottle: 630 samples (occ: 228 trunc: 150)
+[train] bus: 292 samples (occ: 77 trunc: 54)
+[test] bus: 301 samples (occ: 80 trunc: 67)
+[train] car: 1013 samples (occ: 431 trunc: 240)
+[test] car: 1003 samples (occ: 437 trunc: 257)
+[train] chair: 1178 samples (occ: 660 trunc: 294)
+[test] chair: 1176 samples (occ: 642 trunc: 287)
+[train] diningtable: 304 samples (occ: 181 trunc: 96)
+[test] diningtable: 305 samples (occ: 209 trunc: 73)
+[train] motorbike: 357 samples (occ: 162 trunc: 68)
+[test] motorbike: 356 samples (occ: 158 trunc: 61)
+[train] sofa: 281 samples (occ: 174 trunc: 66)
+[test] sofa: 285 samples (occ: 196 trunc: 49)
+[train] train: 313 samples (occ: 89 trunc: 122)
+[test] train: 315 samples (occ: 88 trunc: 114)
+[train] tvmonitor: 392 samples (occ: 118 trunc: 72)
+[test] tvmonitor: 392 samples (occ: 98 trunc: 72)

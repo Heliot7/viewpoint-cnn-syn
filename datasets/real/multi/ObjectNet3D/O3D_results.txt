@@ -1,0 +1,26 @@
+-> O3D results PCK (following VPKP protocol)
+200x200 CPM:
+[aeroplane] PCK 57.8 50.9 88.3 59.6 51.9 77.4 82.5 83.6
+[aeroplane] avg PCK 69.0
+[bicycle] PCK 86.0 91.8 92.1 56.8 90.7 88.9 92.4 53.9 86.7 81.7 71.7
+[bicycle] avg PCK 81.1
+[boat] PCK 71.0 75.5 51.2 46.0 59.2 62.9 40.0
+[boat] avg PCK 58.0
+[bottle] PCK 84.4 80.5 75.2 76.6 86.3 85.7 86.7
+[bottle] avg PCK 82.2
+[bus] PCK 94.3 87.7 87.8 86.6 90.7 92.3 89.8 89.9 95.9 95.7 90.0 95.3
+[bus] avg PCK 91.3
+[car] PCK 98.8 96.7 98.6 97.9 96.7 96.4 90.1 89.5 96.1 94.5 92.8 89.8
+[car] avg PCK 94.8
+[chair] PCK 83.3 83.7 77.0 74.3 70.8 68.7 55.3 60.8 72.7 74.4
+[chair] avg PCK 72.1
+[diningtable] PCK 41.5 43.8 50.0 54.3 59.7 57.7 61.6 61.5 42.3 49.1 84.4 79.0
+[diningtable] avg PCK 57.1
+[motorbike] PCK 60.3 76.1 75.0 67.1 84.8 90.8 46.3 77.8 89.0 45.6
+[motorbike] avg PCK 71.3
+[sofa] PCK 82.9 84.9 87.0 86.7 81.0 71.4 82.2 86.1 83.8 83.1
+[sofa] avg PCK 82.9
+[train] PCK 65.7 82.7 70.7 84.1 47.6 54.3 44.4 55.1 52.5 56.3 33.3 46.7 34.5 55.6 61.1 80.0 74.1
+[train] avg PCK 58.8
+[tvmonitor] PCK 87.7 87.4 94.7 95.7 18.2 52.9 17.6 47.4
+[tvmonitor] avg PCK 62.7

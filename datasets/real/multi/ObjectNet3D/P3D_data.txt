@@ -1,0 +1,67 @@
+-> Accepted or rejected whether they contain Kps (and consistent)
+[train] aeroplane: 0 rejected, 432 saved
+[test] aeroplane: 0 rejected, 433 saved
+[train] bicycle: 0 rejected, 353 saved
+[test] bicycle: 0 rejected, 358 saved
+[train] boat: 0 rejected, 426 saved
+[test] boat: 0 rejected, 424 saved
+[train] bottle: 0 rejected, 629 saved
+[test] bottle: 0 rejected, 630 saved
+[train] bus: 0 rejected, 292 saved
+[test] bus: 0 rejected, 301 saved
+[train] car: 0 rejected, 1013 saved
+[test] car: 0 rejected, 1004 saved
+[train] chair: 0 rejected, 1178 saved
+[test] chair: 0 rejected, 1176 saved
+[train] diningtable: 0 rejected, 304 saved
+[test] diningtable: 0 rejected, 305 saved
+[train] motorbike: 0 rejected, 357 saved
+[test] motorbike: 0 rejected, 356 saved
+[train] sofa: 0 rejected, 281 saved
+[test] sofa: 0 rejected, 285 saved
+[train] train: 0 rejected, 313 saved
+[test] train: 0 rejected, 315 saved
+[train] tvmonitor: 0 rejected, 392 saved
+[test] tvmonitor: 0 rejected, 392 saved
+
+-> Sizes of BBs
+[aeroplane]
+TRAIN 432 samples, row: 128.8,85.2 col: 296.9,167.8
+TEST 433 samples, row: 138.1,90.0 col: 319.9,166.1
+[bicycle]
+TRAIN 353 samples, row: 181.5,109.1 col: 217.4,143.3
+TEST 358 samples, row: 197.0,106.6 col: 224.5,141.9
+[boat]
+TRAIN 426 samples, row: 121.2,104.9 col: 176.4,141.3
+TEST 424 samples, row: 116.1,103.8 col: 178.9,141.0
+[bottle]
+TRAIN 629 samples, row: 119.3,111.3 col: 55.1,56.3
+TEST 630 samples, row: 139.4,111.0 col: 67.4,74.3
+[bus]
+TRAIN 292 samples, row: 184.5,100.1 col: 253.2,142.7
+TEST 301 samples, row: 192.2,101.7 col: 243.9,138.3
+[car]
+TRAIN 1013 samples, row: 108.5,98.4 col: 168.7,149.4
+TEST 1004 samples, row: 102.7,92.5 col: 162.4,143.6
+[chair]
+TRAIN 1178 samples, row: 148.1,92.8 col: 120.7,88.5
+TEST 1176 samples, row: 148.6,92.8 col: 121.1,84.2
+[diningtable]
+TRAIN 304 samples, row: 166.3,83.3 col: 294.4,135.9
+TEST 305 samples, row: 165.9,88.9 col: 295.6,134.9
+[motorbike]
+TRAIN 357 samples, row: 204.8,110.3 col: 245.1,146.1
+TEST 356 samples, row: 205.0,113.0 col: 234.9,142.9
+[sofa]
+TRAIN 281 samples, row: 206.1,91.5 col: 314.3,133.1
+TEST 285 samples, row: 198.7,90.5 col: 313.7,137.0
+[train]
+TRAIN 313 samples, row: 196.3,104.8 col: 315.4,126.6
+TEST 315 samples, row: 186.9,101.6 col: 306.5,136.7
+[tvmonitor]
+TRAIN 392 samples, row: 124.7,82.3 col: 135.1,100.8
+TEST 392 samples, row: 135.2,87.7 col: 147.0,102.6
+
+-> Num samples with no viewpoint at all, but still giving (0,0,0)
+TRAIN 0,0,0: 608
+TEST 0,0,0: 664
