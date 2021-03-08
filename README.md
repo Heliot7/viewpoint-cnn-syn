@@ -2,28 +2,46 @@
 
 Paper (oral) GCPR 2019: https://arxiv.org/pdf/1912.06274.pdf
 
+supp. material: http://pages.iai.uni-bonn.de/gall_juergen/download/kp-vpi_supp.pdf
+
 ##### Models
 Models Keypoint + Viewpont Estimation (Caffe):
 
-- ObjectNet3D - KP+VP Real Data https://drive.google.com/file/d/1ZdF6RZUkUrtf7yfvnt8L-_CmK58nyvv7/view?usp=sharing
+- ObjectNet3D - KP+VP Real Data
+
+https://drive.google.com/file/d/1ZdF6RZUkUrtf7yfvnt8L-_CmK58nyvv7/view?usp=sharing
 - ObjectNet3D - KP+VP Real + Synthetic (ShapeNet+Own) Data
+
 https://drive.google.com/file/d/11Njc2Z8W3jzQg8428LXj1unIjLFtfFOZ/view?usp=sharing
 
 Models Viewpoint Estimation Only (Caffe):
+
 - ObjectNet3D - Classication Real Data
+
 https://drive.google.com/file/d/1BdUan6iMjUm-o4m8gLKK71RWwNTPYJMy/view?usp=sharing
+
 - ObjectNet3D - Classification Real + Synthetic (ShapeNet+Own) Data
+
 https://drive.google.com/file/d/1WrJzm5MWVpdvVgutbQ-zOMrWa2TJys5W/view?usp=sharing
+
 - Pascal3D - Classication Real Data
+
 https://drive.google.com/file/d/13iu9UOGRIEOtZPV3-RLHXGEHiFXlDgFA/view?usp=sharing
+
 - Pascal3D - Classification Real + Synthetic (ShapeNet+Own) Data
+
 https://drive.google.com/file/d/1VLKK_mRmVn3tYygJBwmBEikdpeaxeXUK/view?usp=sharing
+
 
 ##### How to set-up the CNN framework
 - Caffe-git is an enhanced copy of Caffe version github on Dec 2016
+
 Source: https://drive.google.com/file/d/1FjJcTY8x4lxyk_ErZIto9O52uaD62OsR/view?usp=sharing
+
 - The given VS2013 should be working straight forward
+
 Binaries: https://drive.google.com/file/d/1IcQJGt6U_fxJzkD2q2lm9bqzmPwP1nUy/view?usp=sharing
+
 - caffe.mexw64 for matlab found here: ~/features/CNN/
 
 ##### Requirements
