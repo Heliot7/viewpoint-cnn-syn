@@ -1,6 +1,7 @@
 # Joint Viewpoint & Keypoint estimation with CNNs (Caffe)
 
 Paper (oral) GCPR 2019: https://arxiv.org/pdf/1912.06274.pdf
+supp. material: http://pages.iai.uni-bonn.de/gall_juergen/download/kp-vpi_supp.pdf
 
 supp. material: http://pages.iai.uni-bonn.de/gall_juergen/download/kp-vpi_supp.pdf
 
